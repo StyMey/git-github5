@@ -7,4 +7,4 @@ tout à
 fait
 interressantes
 dans ce
-ficher.
+fichier.
